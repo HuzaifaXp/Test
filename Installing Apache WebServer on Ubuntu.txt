@@ -1,0 +1,35 @@
+	instead of repeating sudo with each command, 
+we can apply sudo su command one time only
+
+	sudo apt update
+	sudo apt upgrade
+	sudo apt install apache2
+
+	sudo ufw app list
+
+	sudo ufw app info "Apache Full"
+
+	sudo ufw allow in "Apache Full"
+
+==================================================
+Enabling apache2 service, and checking status
+
+
+	sudo systemctl restart apache2
+	sudo systemctl status apache2
+
+	============================
+Basic permissions below: 
+
+User Permission : sudo chown -R ubuntu:root /var/www/html
+
+
+sudo find html -type d -exec chmod 775 {} \;
+sudo find html -type f -exec chmod 664 {} \;
+
+
+===============================
+
+FOR ZIP AND UNZIP MODULE - USEFUL
+
+sudo apt-get install zip unzip

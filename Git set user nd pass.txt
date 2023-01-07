@@ -1,0 +1,3 @@
+config --global user.name "HuzaifaXp"
+git config --global user.email "sardarhuzaifa891@gmail.com"
+git config --global user.password "Z@!f!!$@rd@r1234"
