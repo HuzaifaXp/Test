@@ -1,0 +1,5 @@
+﻿FROM mcr.microsoft.com/dotnet/aspnet:6.0
+COPY bin/Debug/net6.0/publish/ app/
+WORKDIR /app
+ENTRYPOINT ["dotnet", "Weather_API.dll"]
+

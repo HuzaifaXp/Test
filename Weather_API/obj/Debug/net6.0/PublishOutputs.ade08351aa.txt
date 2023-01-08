@@ -1,0 +1,11 @@
+C:\Users\Professional\Desktop\Practice Dotnet\Weather_API\Weather_API\bin\Debug\net6.0\publish\Weather_API.exe
+C:\Users\Professional\Desktop\Practice Dotnet\Weather_API\Weather_API\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Professional\Desktop\Practice Dotnet\Weather_API\Weather_API\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Professional\Desktop\Practice Dotnet\Weather_API\Weather_API\bin\Debug\net6.0\publish\Weather_API.dll
+C:\Users\Professional\Desktop\Practice Dotnet\Weather_API\Weather_API\bin\Debug\net6.0\publish\Weather_API.deps.json
+C:\Users\Professional\Desktop\Practice Dotnet\Weather_API\Weather_API\bin\Debug\net6.0\publish\Weather_API.runtimeconfig.json
+C:\Users\Professional\Desktop\Practice Dotnet\Weather_API\Weather_API\bin\Debug\net6.0\publish\Weather_API.pdb
+C:\Users\Professional\Desktop\Practice Dotnet\Weather_API\Weather_API\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\Professional\Desktop\Practice Dotnet\Weather_API\Weather_API\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Professional\Desktop\Practice Dotnet\Weather_API\Weather_API\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Professional\Desktop\Practice Dotnet\Weather_API\Weather_API\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

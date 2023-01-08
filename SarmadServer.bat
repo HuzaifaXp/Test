@@ -1,1 +1,1 @@
-ssh ubuntu@18.205.156.229 -i C:\Users\Professional\Desktop\AWS Servers\sarmadServer.pem 
+ssh ubuntu@18.205.156.229 -i sarmadServer.pem 
